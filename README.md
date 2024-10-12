@@ -8,6 +8,8 @@ Welcome to my **Nike Online Store** project! This is an online store built to sh
 
 Check out the live version of the store here: [Nike Online Store](https://tonirajamaki.github.io/eCommerce/)
 
+  <img src="https://github.com/ToniRajamaki/folio2/blob/bea74f901423c5ba0497eb9ec2dbd07c83bd5d8a/public/assets/project-thumbnails/nike-shop-thumbnail.png?raw=true" alt="React" />
+
 ![](demogif.gif)
 
 ## 🛠️ Technologies Used
